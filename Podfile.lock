@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (5.6.2)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Localize-Swift
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Localize-Swift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: f73df57c769a0dfa824d06680e33b136697be58b
+
+COCOAPODS: 1.11.3
